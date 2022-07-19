@@ -266,8 +266,8 @@ a {
   padding: 20px 0; }
   
   section {
-    //padding: 60px 0;
-    //padding-bottom: 30px;
+    padding: 60px 0;
+    padding-bottom: 30px;
 }
 
 /**
@@ -534,9 +534,6 @@ ul {
 
 .featured-img-two {
   background-image: url(../images/extra-feature-bg.jpg); }
-
-.map-image {
-  background-image: url(../images/map-color-overlay.png); }
 
 .mt-30 {
   margin-top: 30px; }
@@ -952,9 +949,6 @@ body {
   color: rgba(255, 255, 255, 0.7); }
 .nav-3 .navbar-nav {
   padding-top: 30px; }
-
-.home-padding {
-  padding: 180px 0; }
 
 /*
     ==============
@@ -1628,17 +1622,6 @@ body {
     box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
     border-color: transparent; }
 
-/*
-    ==============
-       MAP
-    ==============
-*/
-.mh-map {
-  padding: 0px;
-  margin-top: 10px; }
-  .mh-map #mh-map {
-    height: 400px;
-    width: 100%; }
 
 /*
     ============
@@ -2681,5 +2664,3 @@ BLOG Pagination
   font-size: 22px;
   line-height: 30px;
   margin-bottom: 30px; }
-
-/*# sourceMappingURL=styles.css.map */
